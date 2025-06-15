@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="black">#FF000000</color>
+    <color name="white">#FFFFFFFF</color>
+    <color name="purple_500">#6200EE</color>
+
+    <!-- Map App Colors -->
+    <color name="primary_color">#2E7D32</color>
+    <color name="primary_dark">#1B5E20</color>
+    <color name="accent_color">#4CAF50</color>
+    <color name="secondary_color">#81C784</color>
+
+    <color name="white_80">#CCFFFFFF</color>
+    <color name="text_primary">#212121</color>
+    <color name="text_secondary">#757575</color>
+    <color name="background_light">#F5F5F5</color>
+
+    <!-- Gradient colors -->
+    <color name="gradient_start">#2E7D32</color>
+    <color name="gradient_end">#4CAF50</color>
+
+    <!-- Navigation colors -->
+    <color name="nav_item_color">#2E7D32</color>
+    <color name="nav_header_start">#1B5E20</color>
+    <color name="nav_header_end">#2E7D32</color>
+</resources>

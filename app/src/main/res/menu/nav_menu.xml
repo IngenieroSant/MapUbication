@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <group
+        android:id="@+id/group_historial"
+        android:checkableBehavior="single">
+        <!-- Los ítems se agregarán dinámicamente -->
+    </group>
+
+    <item android:title="Acciones">
+        <menu>
+            <item
+                android:id="@+id/nav_limpiar"
+                android:icon="@drawable/ic_clear_nav"
+                android:title=" Limpiar historial"
+                android:visible="false"/>
+
+            <item
+                android:id="@+id/nav_volver"
+                android:icon="@drawable/ic_home_nav"
+                android:title=" Volver al inicio" />
+        </menu>
+    </item>
+
+</menu>

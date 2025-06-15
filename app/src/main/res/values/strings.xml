@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">MapUbication</string>
+    <string name="open">Abrir menú</string>
+    <string name="close">Cerrar menú</string>
+    <string name="buscar">Buscar</string>
+    <string name="quitar_iniciales">❌ Quitar Puntos</string>
+    <string name="limpiar">🗑️ Limpiar</string>
+    <string name="historial">📋 Historial</string>
+    <string name="buscar_hint">Buscar ubicación...</string>
+
+</resources>
